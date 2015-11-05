@@ -63,6 +63,7 @@ typedef enum
 
 typedef enum
 {
+	
 	ch0=0,
 	ch1=1,
 	ch2=2,
