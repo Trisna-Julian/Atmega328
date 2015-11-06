@@ -1,12 +1,12 @@
 # Atmega328
 Some liblary for Arduino microcontroler (ATmega328)
 
-Feature
---ADC
---Input and Output (I/O)
---Serial (USART)
+>Feature
+-ADC
+-Input and Output (I/O)
+-Serial (USART)
 
-TODO
->Timer
->TWI
->PWM
+>TODO
+-Timer
+-TWI
+-PWM
